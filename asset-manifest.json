@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/moneasy/static/css/main.44ef4ca1.css",
+    "main.js": "/moneasy/static/js/main.693db92a.js",
+    "index.html": "/moneasy/index.html",
+    "main.44ef4ca1.css.map": "/moneasy/static/css/main.44ef4ca1.css.map",
+    "main.693db92a.js.map": "/moneasy/static/js/main.693db92a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44ef4ca1.css",
+    "static/js/main.693db92a.js"
+  ]
+}
